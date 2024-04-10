@@ -1,0 +1,11 @@
+error: Error updating cryptocurrency data: {"timestamp":"2024-04-10T07:19:30.355Z"}
+error: Error updating cryptocurrency data: {"timestamp":"2024-04-10T07:19:49.936Z"}
+error: Error updating cryptocurrency data: {"timestamp":"2024-04-10T07:20:15.850Z"}
+error: Error updating cryptocurrency data: {"timestamp":"2024-04-10T07:23:05.959Z"}
+error: Error updating cryptocurrency data: {"timestamp":"2024-04-10T07:23:55.876Z"}
+error: Error updating cryptocurrency data: {"timestamp":"2024-04-10T07:24:35.297Z"}
+error: Error updating cryptocurrency data: {"timestamp":"2024-04-10T07:24:51.789Z"}
+error: Error occurred: cryptos.size is not a function {"stack":"TypeError: cryptos.size is not a function\n    at exports.getAllCryptos (C:\\Users\\ASUS\\Documents\\mansi\\KoinX\\controllers\\cryptoController.js:10:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2024-04-10T07:31:14.502Z"}
+error: TypeError: cryptos.size is not a function
+    at exports.getAllCryptos (C:\Users\ASUS\Documents\mansi\KoinX\controllers\cryptoController.js:10:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {"timestamp":"2024-04-10T07:31:14.508Z"}

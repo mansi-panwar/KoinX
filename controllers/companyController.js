@@ -9,6 +9,7 @@ exports.getCompanies = async (req, res, next) => {
       {
         headers: {
           accept: 'application/json',
+          'x-cg-demo-api-key': apiKey,
         },
       }
     );
